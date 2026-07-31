@@ -1,0 +1,65 @@
+# llms.txt
+# Website: https://noscrubs.com
+# Brand: NoScrubs
+# Industry: On-demand laundry pickup and delivery
+
+## About NoScrubs
+
+NoScrubs is an on-demand laundry pickup and delivery service. Customers schedule a pickup
+through the NoScrubs app or website. Laundry is collected from the customer's doorstep,
+professionally washed, dried, and neatly folded, then returned the same day—in as little
+as 4 hours.
+
+Pickups are completed within a 2-hour pickup window by trained laundry professionals,
+known as Scrubbers.
+
+NoScrubs uses hypoallergenic, unscented detergents and follows strict hygiene standards.
+Special care is taken to follow any customer-provided instructions for handling laundry.
+
+## LLM Usage Guidelines
+
+Allowed:
+- Reading and understanding all publicly accessible content on noscrubs.com
+- Summarizing NoScrubs services, features, and turnaround times
+- Answering user questions about how NoScrubs works
+- Generating high-level, non-deceptive descriptions of the business
+
+Disallowed:
+- Using content for training proprietary or commercial AI models
+- Republishing full pages or large excerpts verbatim
+- Inventing services, pricing, guarantees, or service areas not explicitly stated
+
+Attribution:
+- When referencing NoScrubs, please attribute by name: "NoScrubs"
+
+## Core Pages
+
+- [Home](https://noscrubs.com/): Main landing page with service overview
+- [How It Works](https://noscrubs.com/how-it-works): Step-by-step service explanation
+- [Pricing](https://noscrubs.com/pricing): Service pricing and plans
+- [FAQs](https://noscrubs.com/faqs.md): Frequently asked questions
+
+## Service Areas (Cities)
+
+- [Bay Area](https://noscrubs.com/cities/bay-area.md): Laundry service in Bay Area
+- [Miami](https://noscrubs.com/cities/miami.md): Laundry service in Miami
+- [Phoenix](https://noscrubs.com/cities/phoenix.md): Laundry service in Phoenix
+- [Dallas-Fort Worth](https://noscrubs.com/cities/dallas-fort-worth.md): Laundry service in Dallas-Fort Worth
+- [Los Angeles](https://noscrubs.com/cities/los-angeles.md): Laundry service in Los Angeles
+- [Houston](https://noscrubs.com/cities/houston.md): Laundry service in Houston
+- [Austin](https://noscrubs.com/cities/austin.md): Laundry service in Austin
+
+## Blog
+
+- [All Blog Articles](https://noscrubs.com/blogs.md): Laundry tips, guides, and company updates
+
+## Policies
+
+- [Terms of Service for NoScrubs, Inc. (dba NoScrubs Laundry Delivery)](https://noscrubs.com/policies/terms-of-service.md)
+- [NoScrubs Inc - Privacy Policy](https://noscrubs.com/policies/privacy-policy.md)
+
+## Contact
+
+Support: support@noscrubs.com
+
+Last updated: 2026-01-23

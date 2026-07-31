@@ -1,8 +1,13 @@
 aid: noscrubs
 name: NoScrubs
-description: 'NoScrubs is a company surfaced as a portfolio company of initialized-capital and added to
-  the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'NoScrubs (NoScrubs, Inc., dba NoScrubs Laundry Delivery) is an on-demand wash-and-fold
+  laundry pickup and delivery service operating across US metros including the Bay Area, Los Angeles,
+  Dallas-Fort Worth, Miami, Phoenix, Austin, and Houston. Customers schedule a pickup through the NoScrubs
+  mobile app or website; trained laundry professionals ("Scrubbers") collect laundry from the doorstep
+  within a two-hour window, professionally wash, dry, and fold it using hypoallergenic unscented detergents,
+  and return it the same day in as little as four hours. NoScrubs also offers monthly subscription plans,
+  gift cards, and a wash-and-fold service for businesses. It is a consumer service company with no public
+  developer API; the site publishes an llms.txt for AI agents.'
 url: https://raw.githubusercontent.com/api-evangelist/noscrubs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +15,30 @@ x-backed-by:
 - initialized-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://noscrubs.com/noscrubs-logo.png
 tags:
 - Company
 - Consumer
+- Laundry
+- Delivery
+- On-Demand
+- Logistics
+- Local Services
+- Subscription
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +46,36 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/noscrubs-domain-security.yml
 - type: Website
   url: https://noscrubs.com/
+- type: LLMsTxt
+  name: NoScrubs llms.txt
+  url: llms/noscrubs-llms.txt
+- type: GettingStarted
+  name: How It Works
+  url: https://noscrubs.com/how-it-works
+- type: Pricing
+  name: Pricing
+  url: https://noscrubs.com/pricing
+- type: Blog
+  name: NoScrubs Blog
+  url: https://noscrubs.com/blog
+- type: BlogRSS
+  name: NoScrubs Blog RSS
+  url: https://noscrubs.com/blog/rss.xml
+- type: Support
+  name: Support
+  url: https://noscrubs.com/support
+- type: TermsOfService
+  name: Terms of Service
+  url: https://noscrubs.com/terms
+- type: PrivacyPolicy
+  name: Privacy Policy
+  url: https://noscrubs.com/privacy
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
